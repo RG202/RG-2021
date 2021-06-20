@@ -1,0 +1,8 @@
+﻿  funcoes.c
+C:\Users\Rodrigo Rebelo\Desktop\grupo2\project2\funcoes.c(55,46): warning C4028: formal parameter 2 different from declaration
+C:\Users\Rodrigo Rebelo\Desktop\grupo2\project2\funcoes.c(90,9): warning C4013: 'getline' undefined; assuming extern returning int
+C:\Users\Rodrigo Rebelo\Desktop\grupo2\project2\funcoes.c(142,19): warning C4047: 'return': 'char *' differs in levels of indirection from 'int'
+  main.c
+  Generating Code...
+funcoes.obj : error LNK2019: unresolved external symbol _getline referenced in function _importarCsv
+C:\Users\Rodrigo Rebelo\Desktop\grupo2\project2\Debug\project2.exe : fatal error LNK1120: 1 unresolved externals
